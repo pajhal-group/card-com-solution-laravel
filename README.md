@@ -1,7 +1,3 @@
-﻿Here’s a sample README file for integrating the Cardcom payment gateway in a Laravel application:
-
----
-
 # Cardcom Payment Gateway Integration in Laravel
 
 This repository demonstrates how to integrate the **Cardcom** payment gateway into a Laravel application using **Guzzle** for handling API requests and XML responses.
@@ -97,7 +93,3 @@ Feel free to submit issues or pull requests for improvements or bug fixes.
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-This README provides the necessary information to set up and work with the Cardcom payment integration in a Laravel project.
